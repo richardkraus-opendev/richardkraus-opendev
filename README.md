@@ -24,5 +24,4 @@
 ## Future Goals
 
 - **Academic:** Commencing IT studies at VŠB-TUO in Ostrava.
-- **Professional:** Seeking a long-term Java Trainee/Junior role in Ostrava starting June 2026.
 - **Continuous Learning:** Deepening knowledge in Spring Boot ecosystem and advanced security implementations.
